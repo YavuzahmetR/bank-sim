@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 namespace BankSimulation
-{//havale/hareket tablo
+{
     public partial class Form3 : Form
     {
         public Form3()
