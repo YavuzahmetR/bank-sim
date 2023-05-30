@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace BankSimulation
-{
+{//
     public partial class Form2 : Form
     {
         public Form2()
