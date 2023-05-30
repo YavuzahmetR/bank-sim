@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 namespace BankSimulation
-{
+{//
     public partial class Form3 : Form
     {
         public Form3()
